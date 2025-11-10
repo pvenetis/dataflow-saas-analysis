@@ -1,0 +1,11 @@
+country,alpha_2,alpha_3,country_code,region,sub_region,region_code,sub_region_code
+United States,US,USA,840,North America,Northern America,19,21
+Canada,CA,CAN,124,North America,Northern America,19,21
+United Kingdom,GB,GBR,826,Europe,Northern Europe,150,154
+Germany,DE,DEU,276,Europe,Western Europe,150,155
+France,FR,FRA,250,Europe,Western Europe,150,155
+Australia,AU,AUS,36,Oceania,Australia and New Zealand,9,53
+Japan,JP,JPN,392,Asia,Eastern Asia,142,30
+India,IN,IND,356,Asia,Southern Asia,142,34
+Brazil,BR,BRA,76,South America,South America,5,419
+South Africa,ZA,ZAF,710,Africa,Southern Africa,2,18
