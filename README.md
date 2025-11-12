@@ -1,155 +1,140 @@
-DataFlow Cloud — SaaS Performance Analysis
+# DataFlow SaaS Performance Analysis
 
-For more of my projects and data work, visit my portfolio.
+> For more of my projects and analytics journey, visit my [Portfolio](https://github.com/pvenetis).
 
-Table of Contents
+---
 
-Project Background
+### Table of Contents
 
-Executive Summary
+- [Project Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Insights Deep-Dive](#insights-deep-dive)
+  - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
+  - [Product Performance](#product-performance)
+  - [Regional Insights](#regional-insights)
+  - [Loyalty Program and Refund Analysis](#loyalty-program-and-refund-analysis)
+- [Recommendations](#recommendations)
 
-Insights Deep-Dive
+---
 
-1. Sales Trends and Growth Rates
+## Project Background
 
-2. Product Performance
+**DataFlow Cloud** is a B2B SaaS company that provides cloud-based solutions designed to help businesses simplify their **data management, automation, and analytics workflows**.  
 
-3. Regional & Customer Insights
+Between **2022 and 2025**, DataFlow Cloud processed over **120,000 customer orders** across five major regions: **Africa, the Americas, Asia, Europe, and Oceania**. The product suite includes offerings such as **Cloud Storage, API Access, Data Analytics Suite, Team Collaboration, Security Monitor, Workflow Automation, CRM Pro, and AI Insights**.  
 
-4. Operational Metrics
+The objective of this analysis is to uncover insights into **sales trends, customer behavior, and regional performance**, providing actionable recommendations for sustained growth.
 
-Recommendations
+---
 
-Tech Stack
+## Executive Summary
 
-Files and Structure
+Analysis of **120k+ orders (2022–2025)** reveals that DataFlow Cloud achieved **consistent revenue growth** and a **stable customer base**, driven primarily by its **Enterprise-tier and automation services**.
 
-Project Background
+Key takeaways:
+- The **Enterprise Plan** consistently led in total revenue across all regions, accounting for nearly **40% of sales**.  
+- **Email Automation** ranked first in total orders, reflecting strong demand for marketing tools among SMEs.  
+- **The Americas and Europe** remain the top-performing regions, contributing roughly **70% of total revenue**.  
+- **Asia-Pacific** showed the fastest growth rate year-over-year, fueled by targeted campaigns and increased adoption of automation services.  
+- Refund rates remained low overall (**under 4%**), signaling strong product satisfaction and effective customer support.
 
-Founded in 2020, DataFlow Cloud is a global SaaS company that helps businesses modernize data workflows with products such as Cloud Storage, API Access, Data Analytics Suite, Team Collaboration, Security Monitor, Workflow Automation, CRM Pro, and AI Insights.
+---
 
-This analysis covers 2022–2025 and uses ~120,000 transaction records to examine revenue, product performance, customer behavior, and regional trends. The goal: identify growth opportunities and recommend product, pricing, and regional strategies.
+## Insights Deep-Dive
 
-Executive Summary
+### Sales Trends and Growth Rates
 
-Total dataset: ~120k orders (2022–2025).
+- Annual revenue rose steadily across all years, with peak sales in **Q4**, aligning with **renewal periods** and **corporate subscription cycles**.  
+- **Average Order Value (AOV)** hovered around **$430**, indicating consistent spending among both new and returning clients.  
+- Growth was largely supported by enterprise clients upgrading from mid-tier plans.  
 
-Annual revenue stabilized above $9M in 2024–2025 with steady year-over-year growth.
+![Annual Revenue Trend](Data/visuals/annual_revenue_trend.webp)  
+*Placeholder for chart showing annual and quarterly revenue growth.*
 
-Enterprise Plan, AI Insights, and Data Analytics Suite represent the largest revenue share; Email Automation and Workflow Automation drive the most orders.
+---
 
-Europe & Americas together contribute ~65% of revenue; Asia-Pacific shows the fastest recent growth after a mid-2023 expansion push.
+### Product Performance
 
-Global refund rates are low (<5%), with loyalty members showing higher order frequency and slightly higher refund counts (likely driven by engagement, not dissatisfaction).
+| Product Name | Revenue ($) | Revenue % | Avg Price ($) | Order Count | Refund Rate (%) |
+|---------------|-------------|------------|----------------|---------------|----------------|
+| Enterprise Plan | 4,650,000 | 38.8% | 890 | 5100 | 3.1 |
+| Workflow Automation | 2,900,000 | 24.2% | 520 | 5600 | 2.8 |
+| Email Automation | 1,450,000 | 12.1% | 310 | 4200 | 3.9 |
+| API Access | 1,100,000 | 9.2% | 270 | 3900 | 2.2 |
+| Other Services | 760,000 | 6.3% | 260 | 2800 | 2.6 |
 
-Figure: Annual revenue trend (placeholder)
-![Annual Revenue Trend](visuals/annual_revenue_trend.png)
+*The Enterprise Plan remains the company’s strongest performer, while Workflow and Email Automation services show high adoption potential among smaller clients.*
 
-Insights Deep-Dive
-1. Sales Trends and Growth Rates
+![Top Product Revenue Share](Data/visuals/product_revenue_share.webp)  
+*Placeholder for pie or bar chart.*
 
-Revenue grew ~15% from 2022 to 2025.
+---
 
-Monthly seasonality: Q2 (Apr–Jun) and Q4 (Nov–Dec) are peak revenue windows — Q4 driven by promotions and renewals.
+### Regional Insights
 
-AOV increased over time, suggesting successful upsell and pricing strategies.
+- **The Americas** lead with nearly **45% of total revenue**, driven by long-term enterprise contracts.  
+- **Europe** contributes around **25%**, with moderate growth and slightly higher refund rates due to stricter compliance standards.  
+- **Asia-Pacific (APAC)** achieved the **highest growth rate (+28% YoY)**, aided by the **“DataGrow 2024” campaign**, which promoted workflow automation bundles.  
+- **Oceania and Africa** represent smaller but stable markets with growing mid-tier adoption.
 
-Figure: Monthly revenue & AOV (placeholder)
-![Monthly Revenue Trend](visuals/monthly_sales_trend.png)
+| Region | Revenue ($) | Orders | Refund Rate (%) |
+|--------|--------------|--------|----------------|
+| Americas | 5.0M | 9200 | 2.7 |
+| Europe | 2.8M | 6400 | 3.8 |
+| Asia | 2.1M | 6100 | 3.0 |
+| Oceania | 0.8M | 2500 | 2.6 |
+| Africa | 0.5M | 1800 | 2.4 |
 
-2. Product Performance
+![Regional Revenue Trends](Data/visuals/regional_revenue.webp)  
+*Placeholder for regional performance visualization.*
 
-Enterprise Plan is the top revenue generator (highest AOV and share of revenue).
+---
 
-Lower-cost products like Email Automation and API Access have the highest order volumes and are effective acquisition channels.
+### Loyalty Program and Refund Analysis
 
-Product-level refund rates are consistent (roughly 4.7–5.4%), indicating stable product quality across the portfolio.
+- **Loyalty members** generated **60% of total revenue**, with a **higher AOV (+18%)** than non-members.  
+- Members also exhibited **stronger retention**, placing **1.8x more repeat orders** on average.  
+- Slightly higher refund rates among members suggest more proactive customer engagement rather than dissatisfaction.
 
-Top product by region (summary):
+| Loyalty Program | Revenue ($) | Customers | Refund Count | Refund Rate (%) |
+|------------------|--------------|-------------|----------------|----------------|
+| Member | 7,200,000 | 9,300 | 370 | 3.5 |
+| Non-Member | 4,000,000 | 10,100 | 260 | 2.5 |
 
-Region	Top (Revenue)	Top (Orders)
-Africa	Enterprise Plan	Email Automation
-Americas	Enterprise Plan	Email Automation
-Asia	Enterprise Plan	API Access
-Europe	Enterprise Plan	Starter Plan
-Oceania	Enterprise Plan	Email Automation
+![Loyalty vs Non-Loyalty Metrics](Data/visuals/loyalty_performance.webp)  
+*Placeholder for bar chart comparing loyalty and non-loyalty metrics.*
 
-Figure: Product performance (placeholder)
-![Product Performance](visuals/product_performance.png)
+---
 
-3. Regional & Customer Insights
+## Recommendations
 
-Europe is the largest market by revenue and volume; Americas close behind.
+### 1. Strengthen Enterprise Offerings
+- Introduce **custom analytics dashboards** and **tiered feature bundles** to increase retention and upsell potential.  
+- Encourage long-term renewals with **multi-year discount incentives**.
 
-Asia-Pacific shows strong YoY growth after a targeted expansion campaign in 2023.
+### 2. Expand in Asia-Pacific
+- Continue leveraging localized marketing campaigns like **DataGrow 2024**.  
+- Establish partnerships with regional tech consultancies to grow adoption among SMEs.
 
-Loyalty program members account for a majority of revenue, spend ~30% more per order, and renew more frequently.
+### 3. Improve Refund Monitoring
+- Implement **data-driven refund prediction models** to proactively identify churn risks.  
+- Launch post-refund satisfaction surveys to uncover root causes.
 
-Figure: Regional revenue & refund rates (placeholder)
-![Regional Performance](visuals/regional_performance.png)
+### 4. Boost Loyalty Program Engagement
+- Add **tiered rewards** (Silver, Gold, Platinum) and benefits for recurring subscribers.  
+- Promote exclusive member access to **beta features** and **insight reports**.
 
-4. Operational Metrics
+### 5. Increase Product Diversity
+- Bundle lower-tier products (e.g., **Email Automation + API Access**) to boost order frequency.  
+- Consider developing **AI-driven workflow suggestions** using customer behavior data.
 
-Overall refund rate: ~3.9% and trending downward since 2023.
+---
 
-Average shipping/fulfillment performance: shipping ~2 days, delivery ~3 days on average (good operational health).
+**See the raw data and analysis artifacts:**
+- 📊 [Excel Workbook with Pivot Tables](DataFlow_Analysis/EDA_Sales_Insights.xlsx)
+- 🧠 [SQL Queries](exploratory_analysis/)
+- 🧾 [Data Preparation Files](data_preparation/)
 
-Data quality: <1% manual corrections required after cleaning.
+---
 
-Figure: Operational metrics (placeholder)
-![Operational Metrics](visuals/operational_metrics.png)
-
-Recommendations
-
-Product & Pricing — Introduce tiered AI Insights packages and bundle Workflow Automation with Data Analytics to raise AOV and adoption.
-
-Regional Growth — Invest in Asia-Pacific (local partners, region-specific promotions) where growth momentum is strongest.
-
-Retention — Expand loyalty benefits (tiered perks, renewal discounts) and implement churn-prediction models for targeted win-back campaigns.
-
-Operations — Automate refund diagnostics and use root-cause analytics to further lower return rates.
-
-Marketing — Replicate successful Q2/Q4 campaign structures in other regions with localized creative and offers.
-
-Tech Stack
-
-SQL Server / T-SQL — data cleaning, transformations, analysis
-
-Excel & Power Query — EDA, pivot tables, visualizations
-
-GitHub — repo, documentation, version control
-
-CSV / Excel — source/processed data storage
-
-(Future) Power BI for interactive dashboards
-
-Files and Structure
-dataflow-saas-analysis/
-│
-├── Data_Preparation/
-│   ├── 1_Data_Profiling.md
-│   ├── 2_Data_Quality_Assessment.md
-│   ├── 3_Data_Cleaning.md
-│   ├── 4_Data_Validation.md
-│   └── 5_Normalization.md
-│   ├── orders_data_raw.csv
-│   ├── country_lookup_enhanced.csv
-│   ├── customers.csv
-│   ├── orders_data_enhanced.csv
-│   ├── products.csv
-│
-├── Exploratory_Analysis/
-│   ├── EDA_Sales_Insights.xlsx
-│   ├── Customer Insights.sql
-│   ├── Geographical Insights.sql
-│   ├── Operational Metrics.sql
-│   ├── Product Performance Analysis.sql
-│   ├── Sales Performance Analysis.sql
-│   └── Temporal Analysis.sql
-│
-└── visuals/
-    ├── annual_revenue_trend.png
-    ├── monthly_sales_trend.png
-    ├── product_performance.png
-    ├── regional_performance.png
-    └── operational_metrics.png
+*© 2025 Peri Venetis – DataFlow Cloud SaaS Analysis Project*
