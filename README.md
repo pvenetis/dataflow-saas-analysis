@@ -70,7 +70,7 @@ Overall, DataFlow Cloud shows a **mature business model** with solid retention a
 
 ### Data Model Overview
 
-The database design centers around four key entities — **Orders**, **Products**, **Customers**, and **Regions**, linked by primary and foreign keys for clean relational structure.
+The database design centers around four key entities — **Orders**, **Products**, and **Customers** linked by primary and foreign keys for clean relational structure.
 
 ![Entity Relationship Diagram](./Visuals/ERD_diagram.png)  
 *ERD highlighting the relationships between key tables.*
