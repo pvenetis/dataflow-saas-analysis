@@ -36,6 +36,21 @@ The product portfolio includes:
 
 This analysis explores **sales performance, regional behavior, customer loyalty, and refund trends** to uncover key growth opportunities and operational improvements.
 
+*(Note: Data is simulated to reflect realistic SaaS business patterns.)*
+
+---
+
+## Methodology & Tools
+
+This analysis combined **data preparation, exploratory analysis, and business insights** using the following approach:
+
+- **Data Cleaning & Preparation:** SQL was used to join tables, remove duplicates, and standardize data across **Orders**, **Products**, **Customers**, and **Regions**.  
+- **Exploratory Data Analysis (EDA):** SQL, Excel pivot tables and charts were used to uncover trends in revenue, order volume, product performance, and seasonal behavior.  
+- **Insight Generation:** Metrics such as **Average Order Value (AOV)**, refund rates, and loyalty program impact were calculated to guide strategic recommendations.  
+- **Visualization:** Charts were exported and annotated for clarity, emphasizing actionable insights for decision-makers.  
+
+**Tools & Technologies:** SQL, Excel, GitHub, Markdown, Data Visualization (Excel charts/plots)
+
 ---
 
 ## Executive Summary
@@ -198,6 +213,19 @@ Sales and engagement patterns show **predictable seasonal behavior** that aligns
 ### 5. Product Diversification and Cross-Selling
 - Combine lower-tier services into **discounted bundles**.  
 - Promote **AI Insights** to existing Workflow Automation clients as an upsell path.  
+
+---
+
+## Project Reflection
+
+This project strengthened my ability to **connect raw data with actionable business insights**, translating SQL queries and Excel analysis into meaningful recommendations for a SaaS company.  
+
+Key takeaways include:
+- Understanding regional market differences and seasonal trends.  
+- Evaluating the impact of loyalty programs on revenue and retention.  
+- Practicing **data storytelling**, ensuring that visuals communicate the “why” behind the numbers.  
+
+Moving forward, I aim to incorporate more **multi-metric visualizations** and predictive analytics to enhance decision-making support.
 
 ---
 
