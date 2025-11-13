@@ -1,9 +1,11 @@
-product_id,product_name,category,base_price
-1,Cloud Storage,Infrastructure,29.0
-2,API Access,Platform,49.0
-3,Data Analytics Suite,Analytics,199.0
-4,Team Collaboration,Productivity,79.0
-5,Security Monitor,Security,149.0
-6,Workflow Automation,Automation,99.0
-7,CRM Pro,Sales,129.0
-8,AI Insights,AI,249.0
+﻿product_id,product_name
+P001,Starter Plan
+P002,Pro Plan
+P003,Enterprise Plan
+P004,Data Analytics Add-on
+P005,Security Suite
+P006,Cloud Storage Add-on
+P007,API Access
+P008,Email Automation
+P009,CRM Module
+P010,AI Insights
