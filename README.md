@@ -44,12 +44,13 @@ This analysis explores **sales performance, regional behavior, customer loyalty,
 
 This analysis combined **data preparation, exploratory analysis, and business insights** using the following approach:
 
-- **Data Cleaning & Preparation:** SQL was used to join tables, remove duplicates, and standardize data across **Orders**, **Products**, **Customers**, and **Regions**.  
-- **Exploratory Data Analysis (EDA):** SQL, Excel pivot tables and charts were used to uncover trends in revenue, order volume, product performance, and seasonal behavior.  
-- **Insight Generation:** Metrics such as **Average Order Value (AOV)**, refund rates, and loyalty program impact were calculated to guide strategic recommendations.  
-- **Visualization:** Charts were exported and annotated for clarity, emphasizing actionable insights for decision-makers.  
+- **Data Cleaning & Preparation:** SQL was used to profile the data, assess data quality, remove duplicates, normalize tables, and validate consistency across **Orders**, **Products**, and **Country Lookup**.  
+- **Exploratory Data Analysis (EDA):** SQL queries (joins, CTEs, window functions) were used to uncover trends in revenue, order volume, product performance, and refund behavior.  
+- **Excel Modeling:** Query results were exported into Excel for additional analysis using formulas, Power Query, pivot tables, and charts.  
+- **Insight Generation:** Metrics such as **Average Order Value (AOV)**, refund rate, and product ranking were calculated to support strategic recommendations.  
+- **Visualization:** Excel charts and tables were created to highlight the most meaningful patterns, and a Power BI dashboard is being developed for interactive exploration.  
 
-**Tools & Technologies:** SQL, Excel, GitHub, Markdown, Data Visualization (Excel charts/plots)
+**Tools & Technologies:** SQL Server, Excel, GitHub, Markdown, Power BI
 
 ---
 
