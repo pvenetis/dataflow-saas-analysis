@@ -1,6 +1,6 @@
 # DataFlow SaaS Performance Analysis
 
-> For more of my projects and analytics journey, visit my [Portfolio](https://github.com/pvenetis).
+> For more of my projects and analytics journey, visit my [Portfolio]([https://github.com/pvenetis](https://pvenetis.github.io/)).
 
 ---
 
