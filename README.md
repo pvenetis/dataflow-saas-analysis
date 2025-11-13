@@ -202,9 +202,9 @@ Sales and engagement patterns show **predictable seasonal behavior** that aligns
 ---
 
 **See the raw data and analysis artifacts:**
-- 📊 [Excel Workbook with Pivot Tables](DataFlow_Analysis/EDA_Sales_Insights.xlsx)  
-- 🧠 [SQL Queries](exploratory_analysis/)  
-- 🧾 [Data Preparation Files](data_preparation/)  
+- 📊 [Excel Workbook with Pivot Tables](./EDA/EDA_Sales_Insights.xlsx)  
+- 🧠 [SQL Queries](./SQL)  
+- 🧾 [Data Preparation Files](./Data/Profiling_and_Cleaning)  
 
 ---
 
