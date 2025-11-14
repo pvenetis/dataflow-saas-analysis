@@ -112,21 +112,25 @@ In contrast, **Email Automation** leads in total order count — showing that sm
 
 ### Regional Insights
 
+| Region   | Top Product (Revenue) | Top Product (Orders) |
+|----------|------------------------|------------------------|
+| Africa   | Enterprise Plan        | Email Automation       |
+| Americas | Enterprise Plan        | Email Automation       |
+| Asia     | Enterprise Plan        | API Access             |
+| Europe   | Enterprise Plan        | Starter Plan           |
+| Oceania  | Enterprise Plan        | Email Automation       |
+
 Regional performance reveals **clear market segmentation**: enterprise-heavy contracts dominate the Americas, while Asia-Pacific shows rapid emerging growth.
 
 **Regional takeaways:**
-- **Americas**: 45% of global revenue; strong enterprise renewals and low refund rates.  
-- **Europe**: 25% of revenue; growth steady but hindered by high compliance costs.  
+- **Europe**: 45% of global revenue; strong enterprise renewals and low refund rates.  
+- **Americas**: 25% of revenue; growth steady but hindered by high compliance costs.  
 - **Asia-Pacific**: Fastest-growing region (+28% YoY), largely driven by Workflow Automation.  
 - **Oceania & Africa**: Smaller markets, yet consistent with promising SME adoption.
 
 | ![Revenue by Region](./Visuals/Revenue%20by%20Region.PNG) | ![Product Volume by Region](./Visuals/Product%20Volume%20by%20Region.PNG) |
 |---|---|
 | *Regional revenue distribution across five major markets.* | *Regional comparison of total orders, highlighting strong SME presence in Asia-Pacific.* |
-
-
-![Top Product per Region](./Visuals/Top%20Product%20per%20Region.PNG)  
-*Each region’s top-performing product based on revenue contribution.*
 
 ---
 
