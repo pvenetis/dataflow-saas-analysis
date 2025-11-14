@@ -7,8 +7,8 @@
 ### Table of Contents
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
+- [Data Model Overview](#data-model-overview)
 - [Insights Deep-Dive](#insights-deep-dive)
-  - [Data Model Overview](#data-model-overview)
   - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
   - [Product Performance](#product-performance)
   - [Regional Insights](#regional-insights)
