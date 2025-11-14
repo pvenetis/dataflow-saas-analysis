@@ -120,11 +120,10 @@ Regional performance reveals **clear market segmentation**: enterprise-heavy con
 - **Asia-Pacific**: Fastest-growing region (+28% YoY), largely driven by Workflow Automation.  
 - **Oceania & Africa**: Smaller markets, yet consistent with promising SME adoption.
 
-![Revenue by Region](./Visuals/Revenue%20by%20Region.PNG)  
-*Regional revenue distribution across five major markets.*
+| ![Revenue by Region](./Visuals/Revenue%20by%20Region.PNG) | ![Product Volume by Region](./Visuals/Product%20Volume%20by%20Region.PNG) |
+|---|---|
+| *Regional revenue distribution across five major markets.* | *Regional comparison of total orders, highlighting strong SME presence in Asia-Pacific.* |
 
-![Product Volume by Region](./Visuals/Product%20Volume%20by%20Region.PNG)  
-*Regional comparison of total orders, highlighting strong SME presence in Asia-Pacific.*
 
 ![Top Product per Region](./Visuals/Top%20Product%20per%20Region.PNG)  
 *Each region’s top-performing product based on revenue contribution.*
@@ -157,11 +156,9 @@ Sales and engagement patterns show **predictable seasonal behavior** that aligns
 - Summer months (June–August) typically dip across all regions.  
 - Marketing promotions during early Q2 consistently drive temporary boosts in order counts.
 
-![Seasonal Revenue (%) Chart](./Visuals/Seasonal%20Revenue%20(%25).PNG)  
-*Percentage distribution of revenue across quarters.*
-
-![Seasonal Revenue Bar Chart](./Visuals/Seasonal%20Revenue%20Bar%20Chart.PNG)  
-*Bar chart representation of quarterly seasonality patterns.*
+| ![Seasonal Revenue (%) Chart](./Visuals/Seasonal%20Revenue%20(%25).PNG) | ![Seasonal Revenue Bar Chart](./Visuals/Seasonal%20Revenue%20Bar%20Chart.PNG) |
+|---|---|
+| *Percentage distribution of revenue across quarters.* | *Bar chart representation of quarterly seasonality patterns.* |
 
 ---
 
