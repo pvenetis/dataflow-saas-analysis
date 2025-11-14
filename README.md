@@ -159,25 +159,15 @@ Refund behavior across regions shows **stable performance**, with all markets fa
 
 Revenue follows a clear seasonal structure, driven by purchasing cycles and organizational budgets.  
 
-| Season  | Revenue       |
-|---------|--------------|
-| Summer  | $11.60M      |
-| Spring  | $8.42M       |
-| Holiday | $7.42M       |
-| Fall    | $4.84M       |
-| Winter  | $4.44M       |
-
 **Insights:**
 
 - **Summer** is the strongest season, generating the highest revenue across all years.  
 - **Winter** consistently shows the lowest revenue, reflecting slower business activity.  
 - **Holiday season** (Nov–Dec) provides a reliable secondary peak, though it is not as pronounced as summer.  
 
-![Seasonal Revenue (%) Chart](./Visuals/Seasonal%20Revenue%20(%25).PNG)  
-*Percentage distribution of revenue across seasons, highlighting summer dominance.*
-
-![Seasonal Revenue Bar Chart](./Visuals/Seasonal%20Revenue%20Bar%20Chart.PNG)  
-*Bar chart representation of seasonal revenue trends.*
+| ![Seasonal Revenue (%) Chart](./Visuals/Seasonal%20Revenue%20(%25).PNG) | ![Seasonal Revenue Bar Chart](./Visuals/Seasonal%20Revenue%20Bar%20Chart.PNG) |
+|---|---|
+| *Percentage distribution of revenue across seasons, highlighting summer dominance.* | *Bar chart representation of seasonal revenue trends.* |
 
 ---
 
