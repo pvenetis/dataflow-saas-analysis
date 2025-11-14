@@ -90,9 +90,6 @@ Sales growth has remained consistent across the 2022–2025 period, with strong 
 ![Monthly Revenue Trend](./Visuals/Monthly%20Revenue%20Trend.PNG)  
 *Monthly revenue trend from 2022–2025 showing seasonal peaks.*
 
-![Monthly AOV Trend](./Visuals/Monthly%20AOV%20Trend.PNG)  
-*Average Order Value (AOV) trend, highlighting steady spending per customer.*
-
 ---
 
 ### Product Performance
@@ -104,17 +101,6 @@ In contrast, **Email Automation** leads in total order count — showing that sm
 - **Workflow Automation** and **AI Insights** products gained momentum, especially among mid-tier and APAC clients.  
 - **Security Monitor** showed steady but lower sales, primarily in compliance-heavy regions (Europe).  
 - Upselling from **mid-tier to enterprise packages** accounted for most AOV growth.  
-
-| Product Name | Revenue ($M) | Orders | Refund Rate (%) |
-|---------------|---------------|--------|----------------|
-| Enterprise Plan | 4.65 | 5,100 | 3.1 |
-| Workflow Automation | 2.90 | 5,600 | 2.8 |
-| Email Automation | 1.45 | 4,200 | 3.9 |
-| API Access | 1.10 | 3,900 | 2.2 |
-| Data Analytics Suite | 0.95 | 2,700 | 2.5 |
-| CRM Pro | 0.82 | 2,400 | 2.4 |
-| Security Monitor | 0.70 | 1,900 | 2.7 |
-| Team Collaboration | 0.50 | 1,300 | 2.9 |
 
 ![Revenue by Product](./Visuals/Revenue%20by%20Product.PNG)  
 *Revenue share by product, showing Enterprise and Workflow Automation as leaders.*
@@ -132,15 +118,7 @@ Regional performance reveals **clear market segmentation**: enterprise-heavy con
 - **Americas**: 45% of global revenue; strong enterprise renewals and low refund rates.  
 - **Europe**: 25% of revenue; growth steady but hindered by high compliance costs.  
 - **Asia-Pacific**: Fastest-growing region (+28% YoY), largely driven by Workflow Automation.  
-- **Oceania & Africa**: Smaller markets, yet consistent with promising SME adoption.  
-
-| Region | Revenue ($M) | Orders | Refund Rate (%) |
-|--------|---------------|--------|----------------|
-| Americas | 5.0 | 9,200 | 2.7 |
-| Europe | 2.8 | 6,400 | 3.8 |
-| Asia | 2.1 | 6,100 | 3.0 |
-| Oceania | 0.8 | 2,500 | 2.6 |
-| Africa | 0.5 | 1,800 | 2.4 |
+- **Oceania & Africa**: Smaller markets, yet consistent with promising SME adoption.
 
 ![Revenue by Region](./Visuals/Revenue%20by%20Region.PNG)  
 *Regional revenue distribution across five major markets.*
@@ -161,11 +139,6 @@ Loyalty program participation has proven to be one of the strongest predictors o
 - Loyalty members account for **60% of total revenue** and place **1.8× more repeat orders**.  
 - Refund rates are slightly higher among members (3.5%) — mostly due to higher overall purchase volume.  
 - Non-members exhibit lower order frequency but comparable satisfaction levels.  
-
-| Loyalty Program | Revenue ($M) | Customers | Refund Count | Refund Rate (%) |
-|------------------|--------------|-------------|----------------|----------------|
-| Member | 7.2 | 9,300 | 370 | 3.5 |
-| Non-Member | 4.0 | 10,100 | 260 | 2.5 |
 
 ![Regional Loyalty Revenue and Volume](./Visuals/Regional%20Loyalty%20Revenue%20and%20Volume.PNG)  
 *Loyalty program impact by region, showing higher engagement in the Americas and Asia.*
