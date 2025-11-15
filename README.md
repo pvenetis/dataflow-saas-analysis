@@ -212,6 +212,7 @@ Future analysis could incorporate **predictive modeling** and multi-metric visua
 - 📊 [Excel Workbook with Pivot Tables](./EDA/EDA_Sales_Insights.xlsx)  
 - 🧠 [SQL Queries](./SQL)  
 - 🧾 [Data Preparation Files](./Data/Profiling_and_Cleaning)  
+- 📈 [Power BI Dashboard](./Dashboard)
 
 ---
 
