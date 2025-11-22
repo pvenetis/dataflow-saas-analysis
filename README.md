@@ -48,8 +48,6 @@ This analysis combined **data preparation, exploratory analysis, and business in
 
 Analysis of 120K+ orders (2022–2025) shows that **growth is driven more by upselling existing customers to high-tier Enterprise Plans than by new order volume**, indicating strong retention and customer trust, alongside clear seasonal and regional patterns.
 
-### Key Insights
-
 - **Enterprise Plan** contributes 26.5% of total revenue — confirming its strategic importance for growth.  
 - Upselling mid-tier customers drives AOV growth, while order volume remains evenly distributed (~12K orders per product).  
 - **Europe** leads revenue, reflecting strong enterprise adoption and consistently low refunds.  
@@ -65,7 +63,9 @@ DataFlow Cloud demonstrates **high-value enterprise traction, effective retentio
 
 ### Data Model Overview
 
-The database design centers around four key entities — **Orders**, **Products**, and **Customers** linked by primary and foreign keys for clean relational structure.
+The database design centers around four key entities — **Orders**, **Products**, and **Customers** — linked by primary and foreign keys for a clean relational structure.  
+
+> The tables were **cleaned, normalized, and structured** to ensure consistent, high-quality data for analysis and reporting.
 
 ![Entity Relationship Diagram](./Visuals/ERD_diagram.png)  
 *ERD highlighting the relationships between key tables.*
