@@ -24,16 +24,6 @@
 
 Between **2022 and 2025**, the company processed over **120,000 customer orders** across five major regions — **Africa, the Americas, Asia, Europe, and Oceania**.  
 
-The product portfolio includes:
-- Cloud Storage  
-- API Access  
-- Data Analytics Suite  
-- Team Collaboration  
-- Security Monitor  
-- Workflow Automation  
-- CRM Pro  
-- AI Insights  
-
 This analysis explores **sales performance, regional behavior, customer loyalty, and refund trends** to uncover key growth opportunities and operational improvements.
 
 *(Note: Data is simulated to reflect realistic SaaS business patterns.)*
@@ -56,18 +46,20 @@ This analysis combined **data preparation, exploratory analysis, and business in
 
 ## Executive Summary
 
-Analysis of 120K+ orders (2022–2025) shows a business driven by high-value enterprise contracts, strong European demand, and clear seasonal peaks in the summer months.
+Analysis of 120K+ orders (2022–2025) shows that **growth is driven more by upselling existing customers to high-tier Enterprise Plans than by new order volume**, indicating strong retention and customer trust, alongside clear seasonal and regional patterns.
 
-**Key insights:**
+### Key Insights
 
-- **Enterprise Plan** contributes 26.5% of all revenue — highlighting its strategic importance.  
-- Revenue is concentrated in high-tier offerings, while order volume is evenly distributed (~12K orders per product).  
-- **Europe** is the leading market, demonstrating strong enterprise adoption and low refunds.  
-- **Africa** overperforms relative to expectations, signaling early-stage adoption and SME opportunity.  
-- Seasonal trends indicate summer profitability peaks, while winter is consistently slower.  
-- Stable refund rates (4.9%–5.3%) suggest overall customer satisfaction.
+- **Enterprise Plan** contributes 26.5% of total revenue — confirming its strategic importance for growth.  
+- Upselling mid-tier customers drives AOV growth, while order volume remains evenly distributed (~12K orders per product).  
+- **Europe** leads revenue, reflecting strong enterprise adoption and consistently low refunds.  
+- **Africa** overperforms relative to expectations, highlighting early-stage adoption and SME growth potential.  
+- Seasonal trends show summer revenue peaks, with winter consistently slower.  
+- Stable refund rates (4.9%–5.3%) suggest strong overall customer satisfaction.
 
-**Takeaway:** DataFlow Cloud shows strong enterprise traction, healthy retention, and promising growth potential in emerging markets.
+### Takeaway
+
+DataFlow Cloud demonstrates **high-value enterprise traction, effective retention, and scalable opportunities in emerging markets**.
 
 ---
 
